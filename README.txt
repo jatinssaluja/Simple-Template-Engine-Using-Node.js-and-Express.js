@@ -1,6 +1,6 @@
 I implemented the template engine using Node.js and Express.js. My code handles both templates, template.tmpl and extra.tmpl.
 
-In order to run my code, please go to command line, change to directory template-engine and execute the following steps sequentially:
+In order to run my code, please go to command line, change to the project directory and execute the following steps sequentially:
 
 1) Run 'npm install' command.
 
